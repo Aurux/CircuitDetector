@@ -1,0 +1,26 @@
+<annotation>
+	<folder>my_images</folder>
+	<filename>test6.jpg</filename>
+	<path>/home/ben/Documents/Computer_Science/Hope/Core2/CircuitDetection/images/my_images/test6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LED</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1009</xmin>
+			<ymin>364</ymin>
+			<xmax>1150</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>
