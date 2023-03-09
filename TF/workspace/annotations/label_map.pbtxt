@@ -1,0 +1,20 @@
+item { 
+	name:'resistor'
+	id:1
+}
+item { 
+	name:'electrolytic_capacitor'
+	id:2
+}
+item { 
+	name:'LED'
+	id:3
+}
+item { 
+	name:'ceramic_capacitor'
+	id:4
+}
+item { 
+	name:'IC'
+	id:5
+}
